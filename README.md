@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @adityashrey2000
-- 👀 I’m interested in WebDev.
-- 🌱 I’m currently learning Ethical Hacking, App Dev, React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
